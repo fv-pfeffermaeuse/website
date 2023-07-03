@@ -3,7 +3,7 @@
 Dieses Repository enthält die Website des Fördervereins der Kneip-Kita Pfeffermäuse.
 
 Der Förderverein Kneipp-Kita Pfeffermäuse in Berlin setzt sich aus ehrenamtlichen Helfern zusammen. 
-Wir haben vor allem die finanzielle und ideelle Unterstützung der Kneipp-Kita Pfeffermäuse im Fokus haben verwirklichen tolle neue Projekte für die Kinder. 
+Wir haben vor allem die finanzielle und ideelle Unterstützung der Kneipp-Kita Pfeffermäuse im Fokus und verwirklichen tolle neue Projekte für die Kinder. 
 Hierbei konnte der Förderverein bereits viel zum Kneipp-Konzept beitragen. Beispielsweise wurden eine Sauna und eine Dusche beschafft, sowie ein Barfußpfad angelegt. 
 
 Unsere Website nutzt als Template `Editorial by HTML5 UP` von [html5up.net | @ajlkn](html5up.net).
